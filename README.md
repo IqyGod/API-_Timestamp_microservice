@@ -23,4 +23,6 @@ User story:
 
 Live link: https://project-timestamp.godherea.repl.co
 -
-Input as date: format example as "1988-09-29" => with "-" or "Thu, Sep 29 1988" => with " ". Do not forget to use new Date().
+Input as date: format example as "1988-09-29" => with "-" or "Thu, Sep 29 1988" => with " ". 
+Do not forget to use new Date().
+Empty input will be captured and return a current time.
